@@ -1,0 +1,6 @@
+STM32_MAIN
+
+v0.1:	The original version.
+v0.2:	Modify J2401.
+	Move the via "GND" misplaced on the wire "SERVO_PTZ2".
+	Add text "JBLUETOOTH".

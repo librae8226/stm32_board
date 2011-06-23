@@ -1,0 +1,6 @@
+fatal error:
+1. SERVO_PTZ2(PB1) connected with GND through a via.
+
+normal:
+1. NRF24L01 interface
+2. interface positions

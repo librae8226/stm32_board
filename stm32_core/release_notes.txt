@@ -1,0 +1,4 @@
+STM32_CORE
+
+v0.1:	The original version.
+v0.2: Modify the radius of 4 corners. The original one is not symmetrical.
